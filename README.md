@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, mi nombre es Leonardo Sosa.</h1>
 <h3 align="center">Desarrollador Junior de Córdoba, Argentina.</h3>
 
-- 🔭 Actualmente me encuentro trabajando para la Empresa Encode. [Firma Digital](https://www.encodesa.com.ar/)
+- 💼 Actualmente me encuentro trabajando para la Empresa Encode. [Firma Digital](https://www.encodesa.com.ar/)
 
-- Las tecnologías que estoy utilizando actualmente son: C# (.NetFrameWork - .NetCore - Asp.Net) & Sql Server.
+- ✅ Las tecnologías que estoy utilizando actualmente son: C# (.NetFrameWork - .NetCore - Asp.Net) & Sql Server.
 
-- 📫 Contactarme: **leoososa91@gmail.com**
+- 💬 Contactarme: **leoososa91@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
