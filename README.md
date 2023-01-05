@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, mi nombre es Leonardo Sosa.</h1>
-<h3 align="center">Desarrollador Junior de Córdoba, Argentina.</h3>
+<h3 align="center">💻 Desarrollador Junior de Córdoba, Argentina.</h3>
 
 - 💼 Actualmente me encuentro trabajando para la Empresa Encode. [Firma Digital](https://www.encodesa.com.ar/)
 
