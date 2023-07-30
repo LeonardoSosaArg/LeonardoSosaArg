@@ -3,7 +3,7 @@
 
 - 💼 Actualmente me encuentro trabajando para la Empresa Encode. [Firma Digital](https://www.encodesa.com.ar/)
 
-- ✅ Las tecnologías que estoy utilizando actualmente son: C# (.NetFrameWork - .NetCore - Asp.Net) & Sql Server.
+- ✅ Las tecnologías que estoy utilizando actualmente son: Angular & .Net C# .
 
 - 💬 Contactarme: **leoososa91@gmail.com**
 
